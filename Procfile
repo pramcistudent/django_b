@@ -1,0 +1,1 @@
+echo web: gunicorn blog.wsgi:application
