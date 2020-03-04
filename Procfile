@@ -1,1 +1,1 @@
-echo web: gunicorn blog.wsgi:application
+web: gunicorn blog.wsgi:application
